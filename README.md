@@ -1,5 +1,5 @@
 <h1 align="center">
-Life of Cube
+3D Cube
 </h1>
 
 <p align="center">
